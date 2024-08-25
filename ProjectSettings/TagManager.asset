@@ -6,6 +6,15 @@ TagManager:
   tags:
   - Tassello
   - Detector
+  - A_1
+  - A_2
+  - A_3
+  - B_1
+  - B_2
+  - B_3
+  - C_1
+  - C_2
+  - C_3
   layers:
   - Default
   - TransparentFX
