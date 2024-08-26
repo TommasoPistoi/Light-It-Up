@@ -523,63 +523,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &738796957
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 209606887308121964, guid: daacddec752dfc048b064fe4214b5d9b, type: 3}
-      propertyPath: m_Name
-      value: Fire
-      objectReference: {fileID: 0}
-    - target: {fileID: 3923469827270513447, guid: daacddec752dfc048b064fe4214b5d9b, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -2.2008278
-      objectReference: {fileID: 0}
-    - target: {fileID: 3923469827270513447, guid: daacddec752dfc048b064fe4214b5d9b, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 1.0831993
-      objectReference: {fileID: 0}
-    - target: {fileID: 3923469827270513447, guid: daacddec752dfc048b064fe4214b5d9b, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3923469827270513447, guid: daacddec752dfc048b064fe4214b5d9b, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3923469827270513447, guid: daacddec752dfc048b064fe4214b5d9b, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3923469827270513447, guid: daacddec752dfc048b064fe4214b5d9b, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3923469827270513447, guid: daacddec752dfc048b064fe4214b5d9b, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3923469827270513447, guid: daacddec752dfc048b064fe4214b5d9b, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3923469827270513447, guid: daacddec752dfc048b064fe4214b5d9b, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3923469827270513447, guid: daacddec752dfc048b064fe4214b5d9b, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: daacddec752dfc048b064fe4214b5d9b, type: 3}
 --- !u!1 &1229774470
 GameObject:
   m_ObjectHideFlags: 0
@@ -1381,63 +1324,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
---- !u!1001 &1725828463
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5771478140949385922, guid: 99c4ce99aa50f3342a8719dca9c636a2, type: 3}
-      propertyPath: m_Name
-      value: Start_Fire
-      objectReference: {fileID: 0}
-    - target: {fileID: 8155659681889081595, guid: 99c4ce99aa50f3342a8719dca9c636a2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -3.0080495
-      objectReference: {fileID: 0}
-    - target: {fileID: 8155659681889081595, guid: 99c4ce99aa50f3342a8719dca9c636a2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -3.709678
-      objectReference: {fileID: 0}
-    - target: {fileID: 8155659681889081595, guid: 99c4ce99aa50f3342a8719dca9c636a2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 5.951914
-      objectReference: {fileID: 0}
-    - target: {fileID: 8155659681889081595, guid: 99c4ce99aa50f3342a8719dca9c636a2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8155659681889081595, guid: 99c4ce99aa50f3342a8719dca9c636a2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8155659681889081595, guid: 99c4ce99aa50f3342a8719dca9c636a2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8155659681889081595, guid: 99c4ce99aa50f3342a8719dca9c636a2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8155659681889081595, guid: 99c4ce99aa50f3342a8719dca9c636a2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8155659681889081595, guid: 99c4ce99aa50f3342a8719dca9c636a2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8155659681889081595, guid: 99c4ce99aa50f3342a8719dca9c636a2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 99c4ce99aa50f3342a8719dca9c636a2, type: 3}
 --- !u!1001 &811941780127338122
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1446,6 +1332,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2239107065731110471, guid: 0c2e7f3cfd10f2d48bb846a18fde8677, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Full","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Tag_Tasselli","value":{"$content":["A_1","A_2","A_3","B_1","B_2","B_3","C_1","C_2","C_3"],"$type":"System.Collections.Generic.List`1[[System.String,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[System.String,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
     - target: {fileID: 5549399797531996200, guid: 0c2e7f3cfd10f2d48bb846a18fde8677, type: 3}
       propertyPath: m_Name
       value: Griglia
@@ -1498,6 +1392,51 @@ PrefabInstance:
       addedObject: {fileID: 1465294792}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0c2e7f3cfd10f2d48bb846a18fde8677, type: 3}
+--- !u!1 &811941780127338123 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7314152351829452467, guid: 0c2e7f3cfd10f2d48bb846a18fde8677, type: 3}
+  m_PrefabInstance: {fileID: 811941780127338122}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &811941780127338124 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2108722832685609000, guid: 0c2e7f3cfd10f2d48bb846a18fde8677, type: 3}
+  m_PrefabInstance: {fileID: 811941780127338122}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &811941780127338125 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7709747160436271259, guid: 0c2e7f3cfd10f2d48bb846a18fde8677, type: 3}
+  m_PrefabInstance: {fileID: 811941780127338122}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &811941780127338126 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2947454506653333136, guid: 0c2e7f3cfd10f2d48bb846a18fde8677, type: 3}
+  m_PrefabInstance: {fileID: 811941780127338122}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &811941780127338127 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5966791473336359098, guid: 0c2e7f3cfd10f2d48bb846a18fde8677, type: 3}
+  m_PrefabInstance: {fileID: 811941780127338122}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &811941780127338128 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1565992702839107888, guid: 0c2e7f3cfd10f2d48bb846a18fde8677, type: 3}
+  m_PrefabInstance: {fileID: 811941780127338122}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &811941780127338129 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5742775361077407856, guid: 0c2e7f3cfd10f2d48bb846a18fde8677, type: 3}
+  m_PrefabInstance: {fileID: 811941780127338122}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &811941780127338130 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7575025146128680974, guid: 0c2e7f3cfd10f2d48bb846a18fde8677, type: 3}
+  m_PrefabInstance: {fileID: 811941780127338122}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &811941780127338131 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3671354318480755939, guid: 0c2e7f3cfd10f2d48bb846a18fde8677, type: 3}
+  m_PrefabInstance: {fileID: 811941780127338122}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &965765472559626461
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1506,6 +1445,55 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1535728450154152153, guid: 34680cc634e66f54e8a3eac9ef7e4406, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Draggable","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Locked","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Griglia_Coordinate","value":{"$content":[0,1,2,3,4,5,6,7,8],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 1535728450154152153, guid: 34680cc634e66f54e8a3eac9ef7e4406, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 1535728450154152153, guid: 34680cc634e66f54e8a3eac9ef7e4406, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 811941780127338130}
+    - target: {fileID: 1535728450154152153, guid: 34680cc634e66f54e8a3eac9ef7e4406, type: 3}
+      propertyPath: _data._objectReferences.Array.data[1]
+      value: 
+      objectReference: {fileID: 811941780127338129}
+    - target: {fileID: 1535728450154152153, guid: 34680cc634e66f54e8a3eac9ef7e4406, type: 3}
+      propertyPath: _data._objectReferences.Array.data[2]
+      value: 
+      objectReference: {fileID: 811941780127338128}
+    - target: {fileID: 1535728450154152153, guid: 34680cc634e66f54e8a3eac9ef7e4406, type: 3}
+      propertyPath: _data._objectReferences.Array.data[3]
+      value: 
+      objectReference: {fileID: 811941780127338131}
+    - target: {fileID: 1535728450154152153, guid: 34680cc634e66f54e8a3eac9ef7e4406, type: 3}
+      propertyPath: _data._objectReferences.Array.data[4]
+      value: 
+      objectReference: {fileID: 811941780127338127}
+    - target: {fileID: 1535728450154152153, guid: 34680cc634e66f54e8a3eac9ef7e4406, type: 3}
+      propertyPath: _data._objectReferences.Array.data[5]
+      value: 
+      objectReference: {fileID: 811941780127338126}
+    - target: {fileID: 1535728450154152153, guid: 34680cc634e66f54e8a3eac9ef7e4406, type: 3}
+      propertyPath: _data._objectReferences.Array.data[6]
+      value: 
+      objectReference: {fileID: 811941780127338125}
+    - target: {fileID: 1535728450154152153, guid: 34680cc634e66f54e8a3eac9ef7e4406, type: 3}
+      propertyPath: _data._objectReferences.Array.data[7]
+      value: 
+      objectReference: {fileID: 811941780127338124}
+    - target: {fileID: 1535728450154152153, guid: 34680cc634e66f54e8a3eac9ef7e4406, type: 3}
+      propertyPath: _data._objectReferences.Array.data[8]
+      value: 
+      objectReference: {fileID: 811941780127338123}
     - target: {fileID: 5131334020564593188, guid: 34680cc634e66f54e8a3eac9ef7e4406, type: 3}
       propertyPath: m_Name
       value: Tassello_L_U_R
@@ -1607,6 +1595,55 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tassello_R
       objectReference: {fileID: 0}
+    - target: {fileID: 7959190225360430690, guid: eef45e88a317e644d9040cd3920d26ab, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Draggable","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Locked","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Griglia_Coordinate","value":{"$content":[0,1,2,3,4,5,6,7,8],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 7959190225360430690, guid: eef45e88a317e644d9040cd3920d26ab, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 7959190225360430690, guid: eef45e88a317e644d9040cd3920d26ab, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 811941780127338130}
+    - target: {fileID: 7959190225360430690, guid: eef45e88a317e644d9040cd3920d26ab, type: 3}
+      propertyPath: _data._objectReferences.Array.data[1]
+      value: 
+      objectReference: {fileID: 811941780127338129}
+    - target: {fileID: 7959190225360430690, guid: eef45e88a317e644d9040cd3920d26ab, type: 3}
+      propertyPath: _data._objectReferences.Array.data[2]
+      value: 
+      objectReference: {fileID: 811941780127338128}
+    - target: {fileID: 7959190225360430690, guid: eef45e88a317e644d9040cd3920d26ab, type: 3}
+      propertyPath: _data._objectReferences.Array.data[3]
+      value: 
+      objectReference: {fileID: 811941780127338131}
+    - target: {fileID: 7959190225360430690, guid: eef45e88a317e644d9040cd3920d26ab, type: 3}
+      propertyPath: _data._objectReferences.Array.data[4]
+      value: 
+      objectReference: {fileID: 811941780127338127}
+    - target: {fileID: 7959190225360430690, guid: eef45e88a317e644d9040cd3920d26ab, type: 3}
+      propertyPath: _data._objectReferences.Array.data[5]
+      value: 
+      objectReference: {fileID: 811941780127338126}
+    - target: {fileID: 7959190225360430690, guid: eef45e88a317e644d9040cd3920d26ab, type: 3}
+      propertyPath: _data._objectReferences.Array.data[6]
+      value: 
+      objectReference: {fileID: 811941780127338125}
+    - target: {fileID: 7959190225360430690, guid: eef45e88a317e644d9040cd3920d26ab, type: 3}
+      propertyPath: _data._objectReferences.Array.data[7]
+      value: 
+      objectReference: {fileID: 811941780127338124}
+    - target: {fileID: 7959190225360430690, guid: eef45e88a317e644d9040cd3920d26ab, type: 3}
+      propertyPath: _data._objectReferences.Array.data[8]
+      value: 
+      objectReference: {fileID: 811941780127338123}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1620,6 +1657,55 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1936370388703323240, guid: e870ed345094bd848be7af702bbbfe6e, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Draggable","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Locked","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Griglia_Coordinate","value":{"$content":[0,1,2,3,4,5,6,7,8],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 1936370388703323240, guid: e870ed345094bd848be7af702bbbfe6e, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 1936370388703323240, guid: e870ed345094bd848be7af702bbbfe6e, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 811941780127338130}
+    - target: {fileID: 1936370388703323240, guid: e870ed345094bd848be7af702bbbfe6e, type: 3}
+      propertyPath: _data._objectReferences.Array.data[1]
+      value: 
+      objectReference: {fileID: 811941780127338129}
+    - target: {fileID: 1936370388703323240, guid: e870ed345094bd848be7af702bbbfe6e, type: 3}
+      propertyPath: _data._objectReferences.Array.data[2]
+      value: 
+      objectReference: {fileID: 811941780127338128}
+    - target: {fileID: 1936370388703323240, guid: e870ed345094bd848be7af702bbbfe6e, type: 3}
+      propertyPath: _data._objectReferences.Array.data[3]
+      value: 
+      objectReference: {fileID: 811941780127338131}
+    - target: {fileID: 1936370388703323240, guid: e870ed345094bd848be7af702bbbfe6e, type: 3}
+      propertyPath: _data._objectReferences.Array.data[4]
+      value: 
+      objectReference: {fileID: 811941780127338127}
+    - target: {fileID: 1936370388703323240, guid: e870ed345094bd848be7af702bbbfe6e, type: 3}
+      propertyPath: _data._objectReferences.Array.data[5]
+      value: 
+      objectReference: {fileID: 811941780127338126}
+    - target: {fileID: 1936370388703323240, guid: e870ed345094bd848be7af702bbbfe6e, type: 3}
+      propertyPath: _data._objectReferences.Array.data[6]
+      value: 
+      objectReference: {fileID: 811941780127338125}
+    - target: {fileID: 1936370388703323240, guid: e870ed345094bd848be7af702bbbfe6e, type: 3}
+      propertyPath: _data._objectReferences.Array.data[7]
+      value: 
+      objectReference: {fileID: 811941780127338124}
+    - target: {fileID: 1936370388703323240, guid: e870ed345094bd848be7af702bbbfe6e, type: 3}
+      propertyPath: _data._objectReferences.Array.data[8]
+      value: 
+      objectReference: {fileID: 811941780127338123}
     - target: {fileID: 7611875273816969183, guid: e870ed345094bd848be7af702bbbfe6e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -8.83
@@ -1726,6 +1812,55 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tassello_L_U_D
       objectReference: {fileID: 0}
+    - target: {fileID: 9111665813713847289, guid: 52701552ae4ff82478c79b2c94a88a89, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Draggable","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Locked","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Griglia_Coordinate","value":{"$content":[0,1,2,3,4,5,6,7,8],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 9111665813713847289, guid: 52701552ae4ff82478c79b2c94a88a89, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 9111665813713847289, guid: 52701552ae4ff82478c79b2c94a88a89, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 811941780127338130}
+    - target: {fileID: 9111665813713847289, guid: 52701552ae4ff82478c79b2c94a88a89, type: 3}
+      propertyPath: _data._objectReferences.Array.data[1]
+      value: 
+      objectReference: {fileID: 811941780127338129}
+    - target: {fileID: 9111665813713847289, guid: 52701552ae4ff82478c79b2c94a88a89, type: 3}
+      propertyPath: _data._objectReferences.Array.data[2]
+      value: 
+      objectReference: {fileID: 811941780127338128}
+    - target: {fileID: 9111665813713847289, guid: 52701552ae4ff82478c79b2c94a88a89, type: 3}
+      propertyPath: _data._objectReferences.Array.data[3]
+      value: 
+      objectReference: {fileID: 811941780127338131}
+    - target: {fileID: 9111665813713847289, guid: 52701552ae4ff82478c79b2c94a88a89, type: 3}
+      propertyPath: _data._objectReferences.Array.data[4]
+      value: 
+      objectReference: {fileID: 811941780127338127}
+    - target: {fileID: 9111665813713847289, guid: 52701552ae4ff82478c79b2c94a88a89, type: 3}
+      propertyPath: _data._objectReferences.Array.data[5]
+      value: 
+      objectReference: {fileID: 811941780127338126}
+    - target: {fileID: 9111665813713847289, guid: 52701552ae4ff82478c79b2c94a88a89, type: 3}
+      propertyPath: _data._objectReferences.Array.data[6]
+      value: 
+      objectReference: {fileID: 811941780127338125}
+    - target: {fileID: 9111665813713847289, guid: 52701552ae4ff82478c79b2c94a88a89, type: 3}
+      propertyPath: _data._objectReferences.Array.data[7]
+      value: 
+      objectReference: {fileID: 811941780127338124}
+    - target: {fileID: 9111665813713847289, guid: 52701552ae4ff82478c79b2c94a88a89, type: 3}
+      propertyPath: _data._objectReferences.Array.data[8]
+      value: 
+      objectReference: {fileID: 811941780127338123}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1743,6 +1878,55 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tassello_U_D_R
       objectReference: {fileID: 0}
+    - target: {fileID: 5173135177408235315, guid: 8ec245b34273f4f44b0a30c37e8e5705, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Draggable","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Locked","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Griglia_Coordinate","value":{"$content":[0,1,2,3,4,5,6,7,8],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5173135177408235315, guid: 8ec245b34273f4f44b0a30c37e8e5705, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 5173135177408235315, guid: 8ec245b34273f4f44b0a30c37e8e5705, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 811941780127338130}
+    - target: {fileID: 5173135177408235315, guid: 8ec245b34273f4f44b0a30c37e8e5705, type: 3}
+      propertyPath: _data._objectReferences.Array.data[1]
+      value: 
+      objectReference: {fileID: 811941780127338129}
+    - target: {fileID: 5173135177408235315, guid: 8ec245b34273f4f44b0a30c37e8e5705, type: 3}
+      propertyPath: _data._objectReferences.Array.data[2]
+      value: 
+      objectReference: {fileID: 811941780127338128}
+    - target: {fileID: 5173135177408235315, guid: 8ec245b34273f4f44b0a30c37e8e5705, type: 3}
+      propertyPath: _data._objectReferences.Array.data[3]
+      value: 
+      objectReference: {fileID: 811941780127338131}
+    - target: {fileID: 5173135177408235315, guid: 8ec245b34273f4f44b0a30c37e8e5705, type: 3}
+      propertyPath: _data._objectReferences.Array.data[4]
+      value: 
+      objectReference: {fileID: 811941780127338127}
+    - target: {fileID: 5173135177408235315, guid: 8ec245b34273f4f44b0a30c37e8e5705, type: 3}
+      propertyPath: _data._objectReferences.Array.data[5]
+      value: 
+      objectReference: {fileID: 811941780127338126}
+    - target: {fileID: 5173135177408235315, guid: 8ec245b34273f4f44b0a30c37e8e5705, type: 3}
+      propertyPath: _data._objectReferences.Array.data[6]
+      value: 
+      objectReference: {fileID: 811941780127338125}
+    - target: {fileID: 5173135177408235315, guid: 8ec245b34273f4f44b0a30c37e8e5705, type: 3}
+      propertyPath: _data._objectReferences.Array.data[7]
+      value: 
+      objectReference: {fileID: 811941780127338124}
+    - target: {fileID: 5173135177408235315, guid: 8ec245b34273f4f44b0a30c37e8e5705, type: 3}
+      propertyPath: _data._objectReferences.Array.data[8]
+      value: 
+      objectReference: {fileID: 811941780127338123}
     - target: {fileID: 6567477954075277268, guid: 8ec245b34273f4f44b0a30c37e8e5705, type: 3}
       propertyPath: m_LocalPosition.x
       value: -6.250001
@@ -1796,6 +1980,55 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4691349898311730401, guid: 6a47a24dfdcd6c84c8f1631a50890833, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Draggable","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Locked","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Griglia_Coordinate","value":{"$content":[0,1,2,3,4,5,6,7,8],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 4691349898311730401, guid: 6a47a24dfdcd6c84c8f1631a50890833, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 4691349898311730401, guid: 6a47a24dfdcd6c84c8f1631a50890833, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 811941780127338130}
+    - target: {fileID: 4691349898311730401, guid: 6a47a24dfdcd6c84c8f1631a50890833, type: 3}
+      propertyPath: _data._objectReferences.Array.data[1]
+      value: 
+      objectReference: {fileID: 811941780127338129}
+    - target: {fileID: 4691349898311730401, guid: 6a47a24dfdcd6c84c8f1631a50890833, type: 3}
+      propertyPath: _data._objectReferences.Array.data[2]
+      value: 
+      objectReference: {fileID: 811941780127338128}
+    - target: {fileID: 4691349898311730401, guid: 6a47a24dfdcd6c84c8f1631a50890833, type: 3}
+      propertyPath: _data._objectReferences.Array.data[3]
+      value: 
+      objectReference: {fileID: 811941780127338131}
+    - target: {fileID: 4691349898311730401, guid: 6a47a24dfdcd6c84c8f1631a50890833, type: 3}
+      propertyPath: _data._objectReferences.Array.data[4]
+      value: 
+      objectReference: {fileID: 811941780127338127}
+    - target: {fileID: 4691349898311730401, guid: 6a47a24dfdcd6c84c8f1631a50890833, type: 3}
+      propertyPath: _data._objectReferences.Array.data[5]
+      value: 
+      objectReference: {fileID: 811941780127338126}
+    - target: {fileID: 4691349898311730401, guid: 6a47a24dfdcd6c84c8f1631a50890833, type: 3}
+      propertyPath: _data._objectReferences.Array.data[6]
+      value: 
+      objectReference: {fileID: 811941780127338125}
+    - target: {fileID: 4691349898311730401, guid: 6a47a24dfdcd6c84c8f1631a50890833, type: 3}
+      propertyPath: _data._objectReferences.Array.data[7]
+      value: 
+      objectReference: {fileID: 811941780127338124}
+    - target: {fileID: 4691349898311730401, guid: 6a47a24dfdcd6c84c8f1631a50890833, type: 3}
+      propertyPath: _data._objectReferences.Array.data[8]
+      value: 
+      objectReference: {fileID: 811941780127338123}
     - target: {fileID: 6377891288202317096, guid: 6a47a24dfdcd6c84c8f1631a50890833, type: 3}
       propertyPath: m_SpriteTilingProperty.oldSize.x
       value: 2.88
@@ -1905,6 +2138,55 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8055629161203395812, guid: ed4096792db89494eb4a9fbd8b0e445f, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Draggable","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Locked","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Griglia_Coordinate","value":{"$content":[0,1,2,3,4,5,6,7,8],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 8055629161203395812, guid: ed4096792db89494eb4a9fbd8b0e445f, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 8055629161203395812, guid: ed4096792db89494eb4a9fbd8b0e445f, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 811941780127338130}
+    - target: {fileID: 8055629161203395812, guid: ed4096792db89494eb4a9fbd8b0e445f, type: 3}
+      propertyPath: _data._objectReferences.Array.data[1]
+      value: 
+      objectReference: {fileID: 811941780127338129}
+    - target: {fileID: 8055629161203395812, guid: ed4096792db89494eb4a9fbd8b0e445f, type: 3}
+      propertyPath: _data._objectReferences.Array.data[2]
+      value: 
+      objectReference: {fileID: 811941780127338128}
+    - target: {fileID: 8055629161203395812, guid: ed4096792db89494eb4a9fbd8b0e445f, type: 3}
+      propertyPath: _data._objectReferences.Array.data[3]
+      value: 
+      objectReference: {fileID: 811941780127338131}
+    - target: {fileID: 8055629161203395812, guid: ed4096792db89494eb4a9fbd8b0e445f, type: 3}
+      propertyPath: _data._objectReferences.Array.data[4]
+      value: 
+      objectReference: {fileID: 811941780127338127}
+    - target: {fileID: 8055629161203395812, guid: ed4096792db89494eb4a9fbd8b0e445f, type: 3}
+      propertyPath: _data._objectReferences.Array.data[5]
+      value: 
+      objectReference: {fileID: 811941780127338126}
+    - target: {fileID: 8055629161203395812, guid: ed4096792db89494eb4a9fbd8b0e445f, type: 3}
+      propertyPath: _data._objectReferences.Array.data[6]
+      value: 
+      objectReference: {fileID: 811941780127338125}
+    - target: {fileID: 8055629161203395812, guid: ed4096792db89494eb4a9fbd8b0e445f, type: 3}
+      propertyPath: _data._objectReferences.Array.data[7]
+      value: 
+      objectReference: {fileID: 811941780127338124}
+    - target: {fileID: 8055629161203395812, guid: ed4096792db89494eb4a9fbd8b0e445f, type: 3}
+      propertyPath: _data._objectReferences.Array.data[8]
+      value: 
+      objectReference: {fileID: 811941780127338123}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1974,6 +2256,55 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5395940565980414879, guid: cdbabe30815502e4eb726572c7f06f0d, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Draggable","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Locked","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Griglia_Coordinate","value":{"$content":[0,1,2,3,4,5,6,7,8],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 5395940565980414879, guid: cdbabe30815502e4eb726572c7f06f0d, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 5395940565980414879, guid: cdbabe30815502e4eb726572c7f06f0d, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 811941780127338130}
+    - target: {fileID: 5395940565980414879, guid: cdbabe30815502e4eb726572c7f06f0d, type: 3}
+      propertyPath: _data._objectReferences.Array.data[1]
+      value: 
+      objectReference: {fileID: 811941780127338129}
+    - target: {fileID: 5395940565980414879, guid: cdbabe30815502e4eb726572c7f06f0d, type: 3}
+      propertyPath: _data._objectReferences.Array.data[2]
+      value: 
+      objectReference: {fileID: 811941780127338128}
+    - target: {fileID: 5395940565980414879, guid: cdbabe30815502e4eb726572c7f06f0d, type: 3}
+      propertyPath: _data._objectReferences.Array.data[3]
+      value: 
+      objectReference: {fileID: 811941780127338131}
+    - target: {fileID: 5395940565980414879, guid: cdbabe30815502e4eb726572c7f06f0d, type: 3}
+      propertyPath: _data._objectReferences.Array.data[4]
+      value: 
+      objectReference: {fileID: 811941780127338127}
+    - target: {fileID: 5395940565980414879, guid: cdbabe30815502e4eb726572c7f06f0d, type: 3}
+      propertyPath: _data._objectReferences.Array.data[5]
+      value: 
+      objectReference: {fileID: 811941780127338126}
+    - target: {fileID: 5395940565980414879, guid: cdbabe30815502e4eb726572c7f06f0d, type: 3}
+      propertyPath: _data._objectReferences.Array.data[6]
+      value: 
+      objectReference: {fileID: 811941780127338125}
+    - target: {fileID: 5395940565980414879, guid: cdbabe30815502e4eb726572c7f06f0d, type: 3}
+      propertyPath: _data._objectReferences.Array.data[7]
+      value: 
+      objectReference: {fileID: 811941780127338124}
+    - target: {fileID: 5395940565980414879, guid: cdbabe30815502e4eb726572c7f06f0d, type: 3}
+      propertyPath: _data._objectReferences.Array.data[8]
+      value: 
+      objectReference: {fileID: 811941780127338123}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2005,11 +2336,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6541547567916831723, guid: 0982c03d1f70104479cddd1616ffe395, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -5.241
+      value: 0.003759126
       objectReference: {fileID: 0}
     - target: {fileID: 6541547567916831723, guid: 0982c03d1f70104479cddd1616ffe395, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.471
+      value: -0.4661655
       objectReference: {fileID: 0}
     - target: {fileID: 6541547567916831723, guid: 0982c03d1f70104479cddd1616ffe395, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2043,6 +2374,55 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8535765114959641483, guid: 0982c03d1f70104479cddd1616ffe395, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Draggable","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Locked","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Griglia_Coordinate","value":{"$content":[0,1,2,3,4,5,6,7,8],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 8535765114959641483, guid: 0982c03d1f70104479cddd1616ffe395, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 8535765114959641483, guid: 0982c03d1f70104479cddd1616ffe395, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 811941780127338130}
+    - target: {fileID: 8535765114959641483, guid: 0982c03d1f70104479cddd1616ffe395, type: 3}
+      propertyPath: _data._objectReferences.Array.data[1]
+      value: 
+      objectReference: {fileID: 811941780127338129}
+    - target: {fileID: 8535765114959641483, guid: 0982c03d1f70104479cddd1616ffe395, type: 3}
+      propertyPath: _data._objectReferences.Array.data[2]
+      value: 
+      objectReference: {fileID: 811941780127338128}
+    - target: {fileID: 8535765114959641483, guid: 0982c03d1f70104479cddd1616ffe395, type: 3}
+      propertyPath: _data._objectReferences.Array.data[3]
+      value: 
+      objectReference: {fileID: 811941780127338131}
+    - target: {fileID: 8535765114959641483, guid: 0982c03d1f70104479cddd1616ffe395, type: 3}
+      propertyPath: _data._objectReferences.Array.data[4]
+      value: 
+      objectReference: {fileID: 811941780127338127}
+    - target: {fileID: 8535765114959641483, guid: 0982c03d1f70104479cddd1616ffe395, type: 3}
+      propertyPath: _data._objectReferences.Array.data[5]
+      value: 
+      objectReference: {fileID: 811941780127338126}
+    - target: {fileID: 8535765114959641483, guid: 0982c03d1f70104479cddd1616ffe395, type: 3}
+      propertyPath: _data._objectReferences.Array.data[6]
+      value: 
+      objectReference: {fileID: 811941780127338125}
+    - target: {fileID: 8535765114959641483, guid: 0982c03d1f70104479cddd1616ffe395, type: 3}
+      propertyPath: _data._objectReferences.Array.data[7]
+      value: 
+      objectReference: {fileID: 811941780127338124}
+    - target: {fileID: 8535765114959641483, guid: 0982c03d1f70104479cddd1616ffe395, type: 3}
+      propertyPath: _data._objectReferences.Array.data[8]
+      value: 
+      objectReference: {fileID: 811941780127338123}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2056,6 +2436,55 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 631987785081118931, guid: 81a5000c3a74f2a4bb2946581f388fe4, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Draggable","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Locked","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Griglia_Coordinate","value":{"$content":[0,1,2,3,4,5,6,7,8],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 631987785081118931, guid: 81a5000c3a74f2a4bb2946581f388fe4, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 631987785081118931, guid: 81a5000c3a74f2a4bb2946581f388fe4, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 811941780127338130}
+    - target: {fileID: 631987785081118931, guid: 81a5000c3a74f2a4bb2946581f388fe4, type: 3}
+      propertyPath: _data._objectReferences.Array.data[1]
+      value: 
+      objectReference: {fileID: 811941780127338129}
+    - target: {fileID: 631987785081118931, guid: 81a5000c3a74f2a4bb2946581f388fe4, type: 3}
+      propertyPath: _data._objectReferences.Array.data[2]
+      value: 
+      objectReference: {fileID: 811941780127338128}
+    - target: {fileID: 631987785081118931, guid: 81a5000c3a74f2a4bb2946581f388fe4, type: 3}
+      propertyPath: _data._objectReferences.Array.data[3]
+      value: 
+      objectReference: {fileID: 811941780127338131}
+    - target: {fileID: 631987785081118931, guid: 81a5000c3a74f2a4bb2946581f388fe4, type: 3}
+      propertyPath: _data._objectReferences.Array.data[4]
+      value: 
+      objectReference: {fileID: 811941780127338127}
+    - target: {fileID: 631987785081118931, guid: 81a5000c3a74f2a4bb2946581f388fe4, type: 3}
+      propertyPath: _data._objectReferences.Array.data[5]
+      value: 
+      objectReference: {fileID: 811941780127338126}
+    - target: {fileID: 631987785081118931, guid: 81a5000c3a74f2a4bb2946581f388fe4, type: 3}
+      propertyPath: _data._objectReferences.Array.data[6]
+      value: 
+      objectReference: {fileID: 811941780127338125}
+    - target: {fileID: 631987785081118931, guid: 81a5000c3a74f2a4bb2946581f388fe4, type: 3}
+      propertyPath: _data._objectReferences.Array.data[7]
+      value: 
+      objectReference: {fileID: 811941780127338124}
+    - target: {fileID: 631987785081118931, guid: 81a5000c3a74f2a4bb2946581f388fe4, type: 3}
+      propertyPath: _data._objectReferences.Array.data[8]
+      value: 
+      objectReference: {fileID: 811941780127338123}
     - target: {fileID: 2330710276193166457, guid: 81a5000c3a74f2a4bb2946581f388fe4, type: 3}
       propertyPath: m_Name
       value: Tassello_U_R
@@ -2113,6 +2542,55 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 699027441843297775, guid: 606ab3caed7a5b24e8c3564130a23dd7, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Draggable","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Locked","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Griglia_Coordinate","value":{"$content":[0,1,2,3,4,5,6,7,8],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 699027441843297775, guid: 606ab3caed7a5b24e8c3564130a23dd7, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 699027441843297775, guid: 606ab3caed7a5b24e8c3564130a23dd7, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 811941780127338130}
+    - target: {fileID: 699027441843297775, guid: 606ab3caed7a5b24e8c3564130a23dd7, type: 3}
+      propertyPath: _data._objectReferences.Array.data[1]
+      value: 
+      objectReference: {fileID: 811941780127338129}
+    - target: {fileID: 699027441843297775, guid: 606ab3caed7a5b24e8c3564130a23dd7, type: 3}
+      propertyPath: _data._objectReferences.Array.data[2]
+      value: 
+      objectReference: {fileID: 811941780127338128}
+    - target: {fileID: 699027441843297775, guid: 606ab3caed7a5b24e8c3564130a23dd7, type: 3}
+      propertyPath: _data._objectReferences.Array.data[3]
+      value: 
+      objectReference: {fileID: 811941780127338131}
+    - target: {fileID: 699027441843297775, guid: 606ab3caed7a5b24e8c3564130a23dd7, type: 3}
+      propertyPath: _data._objectReferences.Array.data[4]
+      value: 
+      objectReference: {fileID: 811941780127338127}
+    - target: {fileID: 699027441843297775, guid: 606ab3caed7a5b24e8c3564130a23dd7, type: 3}
+      propertyPath: _data._objectReferences.Array.data[5]
+      value: 
+      objectReference: {fileID: 811941780127338126}
+    - target: {fileID: 699027441843297775, guid: 606ab3caed7a5b24e8c3564130a23dd7, type: 3}
+      propertyPath: _data._objectReferences.Array.data[6]
+      value: 
+      objectReference: {fileID: 811941780127338125}
+    - target: {fileID: 699027441843297775, guid: 606ab3caed7a5b24e8c3564130a23dd7, type: 3}
+      propertyPath: _data._objectReferences.Array.data[7]
+      value: 
+      objectReference: {fileID: 811941780127338124}
+    - target: {fileID: 699027441843297775, guid: 606ab3caed7a5b24e8c3564130a23dd7, type: 3}
+      propertyPath: _data._objectReferences.Array.data[8]
+      value: 
+      objectReference: {fileID: 811941780127338123}
     - target: {fileID: 6305468211287334619, guid: 606ab3caed7a5b24e8c3564130a23dd7, type: 3}
       propertyPath: m_Name
       value: Tassello_U_R
@@ -2210,6 +2688,55 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3994821355609272416, guid: d6730fc9a84c8cb4f875b8215b24f100, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Draggable","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Locked","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Griglia_Coordinate","value":{"$content":[0,1,2,3,4,5,6,7,8],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 3994821355609272416, guid: d6730fc9a84c8cb4f875b8215b24f100, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 3994821355609272416, guid: d6730fc9a84c8cb4f875b8215b24f100, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 811941780127338130}
+    - target: {fileID: 3994821355609272416, guid: d6730fc9a84c8cb4f875b8215b24f100, type: 3}
+      propertyPath: _data._objectReferences.Array.data[1]
+      value: 
+      objectReference: {fileID: 811941780127338129}
+    - target: {fileID: 3994821355609272416, guid: d6730fc9a84c8cb4f875b8215b24f100, type: 3}
+      propertyPath: _data._objectReferences.Array.data[2]
+      value: 
+      objectReference: {fileID: 811941780127338128}
+    - target: {fileID: 3994821355609272416, guid: d6730fc9a84c8cb4f875b8215b24f100, type: 3}
+      propertyPath: _data._objectReferences.Array.data[3]
+      value: 
+      objectReference: {fileID: 811941780127338131}
+    - target: {fileID: 3994821355609272416, guid: d6730fc9a84c8cb4f875b8215b24f100, type: 3}
+      propertyPath: _data._objectReferences.Array.data[4]
+      value: 
+      objectReference: {fileID: 811941780127338127}
+    - target: {fileID: 3994821355609272416, guid: d6730fc9a84c8cb4f875b8215b24f100, type: 3}
+      propertyPath: _data._objectReferences.Array.data[5]
+      value: 
+      objectReference: {fileID: 811941780127338126}
+    - target: {fileID: 3994821355609272416, guid: d6730fc9a84c8cb4f875b8215b24f100, type: 3}
+      propertyPath: _data._objectReferences.Array.data[6]
+      value: 
+      objectReference: {fileID: 811941780127338125}
+    - target: {fileID: 3994821355609272416, guid: d6730fc9a84c8cb4f875b8215b24f100, type: 3}
+      propertyPath: _data._objectReferences.Array.data[7]
+      value: 
+      objectReference: {fileID: 811941780127338124}
+    - target: {fileID: 3994821355609272416, guid: d6730fc9a84c8cb4f875b8215b24f100, type: 3}
+      propertyPath: _data._objectReferences.Array.data[8]
+      value: 
+      objectReference: {fileID: 811941780127338123}
     - target: {fileID: 8571263755161275263, guid: d6730fc9a84c8cb4f875b8215b24f100, type: 3}
       propertyPath: m_Name
       value: Tassello_U_D
@@ -2267,6 +2794,55 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6063165509467865548, guid: 27bab8a0e530b394ab8778ab5d82b449, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Draggable","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Locked","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Griglia_Coordinate","value":{"$content":[0,1,2,3,4,5,6,7,8],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 6063165509467865548, guid: 27bab8a0e530b394ab8778ab5d82b449, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6063165509467865548, guid: 27bab8a0e530b394ab8778ab5d82b449, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 811941780127338130}
+    - target: {fileID: 6063165509467865548, guid: 27bab8a0e530b394ab8778ab5d82b449, type: 3}
+      propertyPath: _data._objectReferences.Array.data[1]
+      value: 
+      objectReference: {fileID: 811941780127338129}
+    - target: {fileID: 6063165509467865548, guid: 27bab8a0e530b394ab8778ab5d82b449, type: 3}
+      propertyPath: _data._objectReferences.Array.data[2]
+      value: 
+      objectReference: {fileID: 811941780127338128}
+    - target: {fileID: 6063165509467865548, guid: 27bab8a0e530b394ab8778ab5d82b449, type: 3}
+      propertyPath: _data._objectReferences.Array.data[3]
+      value: 
+      objectReference: {fileID: 811941780127338131}
+    - target: {fileID: 6063165509467865548, guid: 27bab8a0e530b394ab8778ab5d82b449, type: 3}
+      propertyPath: _data._objectReferences.Array.data[4]
+      value: 
+      objectReference: {fileID: 811941780127338127}
+    - target: {fileID: 6063165509467865548, guid: 27bab8a0e530b394ab8778ab5d82b449, type: 3}
+      propertyPath: _data._objectReferences.Array.data[5]
+      value: 
+      objectReference: {fileID: 811941780127338126}
+    - target: {fileID: 6063165509467865548, guid: 27bab8a0e530b394ab8778ab5d82b449, type: 3}
+      propertyPath: _data._objectReferences.Array.data[6]
+      value: 
+      objectReference: {fileID: 811941780127338125}
+    - target: {fileID: 6063165509467865548, guid: 27bab8a0e530b394ab8778ab5d82b449, type: 3}
+      propertyPath: _data._objectReferences.Array.data[7]
+      value: 
+      objectReference: {fileID: 811941780127338124}
+    - target: {fileID: 6063165509467865548, guid: 27bab8a0e530b394ab8778ab5d82b449, type: 3}
+      propertyPath: _data._objectReferences.Array.data[8]
+      value: 
+      objectReference: {fileID: 811941780127338123}
     - target: {fileID: 7260107744131342956, guid: 27bab8a0e530b394ab8778ab5d82b449, type: 3}
       propertyPath: m_Name
       value: Tassello_D_R
@@ -2328,6 +2904,55 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9114262168035799276, guid: 660ad8af7b58d7d409484ee9041dc37f, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Draggable","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Locked","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Griglia_Coordinate","value":{"$content":[0,1,2,3,4,5,6,7,8],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 9114262168035799276, guid: 660ad8af7b58d7d409484ee9041dc37f, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 9114262168035799276, guid: 660ad8af7b58d7d409484ee9041dc37f, type: 3}
+      propertyPath: _data._objectReferences.Array.data[0]
+      value: 
+      objectReference: {fileID: 811941780127338130}
+    - target: {fileID: 9114262168035799276, guid: 660ad8af7b58d7d409484ee9041dc37f, type: 3}
+      propertyPath: _data._objectReferences.Array.data[1]
+      value: 
+      objectReference: {fileID: 811941780127338129}
+    - target: {fileID: 9114262168035799276, guid: 660ad8af7b58d7d409484ee9041dc37f, type: 3}
+      propertyPath: _data._objectReferences.Array.data[2]
+      value: 
+      objectReference: {fileID: 811941780127338128}
+    - target: {fileID: 9114262168035799276, guid: 660ad8af7b58d7d409484ee9041dc37f, type: 3}
+      propertyPath: _data._objectReferences.Array.data[3]
+      value: 
+      objectReference: {fileID: 811941780127338131}
+    - target: {fileID: 9114262168035799276, guid: 660ad8af7b58d7d409484ee9041dc37f, type: 3}
+      propertyPath: _data._objectReferences.Array.data[4]
+      value: 
+      objectReference: {fileID: 811941780127338127}
+    - target: {fileID: 9114262168035799276, guid: 660ad8af7b58d7d409484ee9041dc37f, type: 3}
+      propertyPath: _data._objectReferences.Array.data[5]
+      value: 
+      objectReference: {fileID: 811941780127338126}
+    - target: {fileID: 9114262168035799276, guid: 660ad8af7b58d7d409484ee9041dc37f, type: 3}
+      propertyPath: _data._objectReferences.Array.data[6]
+      value: 
+      objectReference: {fileID: 811941780127338125}
+    - target: {fileID: 9114262168035799276, guid: 660ad8af7b58d7d409484ee9041dc37f, type: 3}
+      propertyPath: _data._objectReferences.Array.data[7]
+      value: 
+      objectReference: {fileID: 811941780127338124}
+    - target: {fileID: 9114262168035799276, guid: 660ad8af7b58d7d409484ee9041dc37f, type: 3}
+      propertyPath: _data._objectReferences.Array.data[8]
+      value: 
+      objectReference: {fileID: 811941780127338123}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2356,5 +2981,3 @@ SceneRoots:
   - {fileID: 468231073}
   - {fileID: 1663350469}
   - {fileID: 315721467}
-  - {fileID: 738796957}
-  - {fileID: 1725828463}
